@@ -6,7 +6,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: a1503741059@163.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Nas, Cloud, UAV, Badminton and so on~
+- ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
 <!--
 **Tipriest/Tipriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
