@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **UAV Auto Exploration Methods**
+- 🔭 I’m currently working on **3D Reconstruction, UAV Traj Planning and UAV Exploration Methods**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
