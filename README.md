@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **3D Reconstruction, UAV Traj Planning and UAV Exploration Methods**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - ✨ I’m relatively good at hardware design, including **high speed signal design and power design**~
-- 👯 I’m looking to collaborate on my **hardware Rules Design**~
+- 👯 I’m looking to collaborate on my **hardware Rules Design and my ideas which is recorded in the repository below**~
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: a1503741059@163.com
