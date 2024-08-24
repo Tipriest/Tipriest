@@ -8,6 +8,7 @@
 - 📫 How to reach me: a1503741059@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
+- 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
 <!--
 **Tipriest/Tipriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
