@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **3D Reconstruction, UAV Traj Planning and UAV Exploration Methods**
+- 🔭 I’m currently working on **Traj Planning / Tracking and Object Detection**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - ✨ I’m relatively good at hardware design, including **high speed signal design and power design**~
 - 👯 I’m looking to collaborate on my **hardware Rules Design and my ideas which is recorded in the repository below**~
