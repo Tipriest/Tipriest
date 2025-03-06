@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **C++ and Algorithms**
-- ✨ I’m relatively good at hardware design, including **high speed signal design and power design**~
+- ✨ I’m relatively good at hardware design, including **power board(like buck boost PCB)design**~
 - 👯 I’m looking to collaborate on my **hardware Rules Design and my ideas which is recorded in the repository below**~
 - 🤔 I’m looking forard ro do my phD research or find a work position worldWide, if you are interested, Contact with Me and hope on day we could work together！
 - 💬 Ask me about ...
