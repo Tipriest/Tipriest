@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
 - ✨ I’m relatively good at hardware design, including **power board(like buck boost PCB)design**~
-- 👯 I’m looking to collaborate on my **hardware Rules Design and my ideas which is recorded in the repository below**~
+- 👯 I’m looking to collaborate on my **trajectory planning work and my ideas which is recorded in the repository below**~
 - 🤔 I’m looking forard ro do my phD research or find a work position worldWide, if you are interested, Contact with Me and hope on day we could work together！
 - 💬 Ask me about ...
 - 📫 How to reach me: a1503741059@163.com
