@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
+- 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - ✨ I’m relatively good at hardware design, including **power board(like buck boost PCB)design**~
 - 👯 I’m looking to collaborate on my **hardware Rules Design and my ideas which is recorded in the repository below**~
