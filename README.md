@@ -12,5 +12,5 @@
 
 [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats)
 
-领英的badge, CSDN和B站的Icon链接，脉脉的badge
+领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
