@@ -9,14 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
 - 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
-<!--
-**Tipriest/Tipriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 
 [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats)
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
