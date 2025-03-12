@@ -14,3 +14,4 @@
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
