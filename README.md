@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
 - 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
 
-[![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&height=200)
-[![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&height=200)
+<!-- [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&height=200) -->
+<!-- [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&height=200) -->
 <img src="https://github-readme-stats.vercel.app/api?username=Tipriest&show_icons=true" height="200" alt="Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest" height="200" alt="Langs" />
 
