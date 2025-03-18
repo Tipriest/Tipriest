@@ -37,6 +37,6 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tipriest&theme=github)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=normal) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github)
 
 
