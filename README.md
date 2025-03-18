@@ -27,8 +27,7 @@
 - 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
 
 
-<!-- [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true) -->
+
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest" height="200" alt="Langs" /> -->
@@ -37,6 +36,9 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tipriest&theme=github)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github)
+<!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github) -->
+[![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats)
+[![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+
 
 
