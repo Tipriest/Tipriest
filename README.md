@@ -12,6 +12,8 @@
 
 [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&height=200)
 [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&height=200)
+<img src="https://github-readme-stats.vercel.app/api?username=Tipriest&show_icons=true" height="200" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest" height="200" alt="Langs" />
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
