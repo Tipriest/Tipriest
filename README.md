@@ -15,5 +15,6 @@
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat-square&logo=PyTorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/AltiumDesigner-A5915F?style=flat-square&logo=AltiumDesigner&logoColor=white)
