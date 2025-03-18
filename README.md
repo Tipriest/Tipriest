@@ -27,9 +27,9 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tipriest&show_icons=true" height="160" alt="Stats" /> -->
 
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tipriest&theme=nord_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tipriest&theme=github)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=nord_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github)
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
