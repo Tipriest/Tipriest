@@ -7,7 +7,7 @@
 
 [![bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D496296349&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37697)](https://space.bilibili.com/496296349)
 [![GitHub followers](https://img.shields.io/github/followers/Tipriest?style=flat&logo=github&labelColor=black)](https://github.com/Tipriest)
-[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=Blog)](https://tipriest.github.io)
+[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=MyBlog)](https://tipriest.github.io)
 
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
