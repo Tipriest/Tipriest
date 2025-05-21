@@ -3,73 +3,11 @@
 
 你可以在这里关注我：
 
-<!--[![ghpvc](https://komarev.com/ghpvc/?username=muzihuaner&color=blue&style=flat-square&label=Blog)](https://blog.quickso.cn) -->
+[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=Blog)](https://blog.quickso.cn)
 
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8%2FS9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I%2Fw+lgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F%2FSS%2F9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&label=bilibili+fans&labelColor=FE7398&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D100814804&longCache=true)](https://space.bilibili.com/496296349) 
 [![GitHub followers](https://img.shields.io/github/followers/Tipriest?style=flat&logo=github&labelColor=black)](https://github.com/Tipriest)
-
-
-<?php
-// 配置部分
-$uid = '496296349'; // 你的B站UID
-$cache_file = 'bili_follower.cache'; // 缓存文件名
-$cache_time = 3600; // 缓存时间1小时（单位：秒）
-
-// 获取粉丝数函数
-function getBiliFollower($uid, $cache_file, $cache_time) {
-    // 检查缓存是否有效
-    if (file_exists($cache_file) && time() - filemtime($cache_file) < $cache_time) {
-        return file_get_contents($cache_file);
-    }
-
-    // API请求
-    $api_url = "https://api.bilibili.com/x/relation/stat?vmid={$uid}";
-    $response = @file_get_contents($api_url);
-    
-    if ($response === FALSE) {
-        // 失败时尝试使用备用方法（cURL）
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $api_url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        $response = curl_exec($ch);
-        curl_close($ch);
-    }
-
-    // 解析数据
-    $data = json_decode($response, true);
-    
-    if ($data && $data['code'] == 0) {
-        $follower = number_format($data['data']['follower']);
-        // 写入缓存
-        file_put_contents($cache_file, $follower);
-        return $follower;
-    }
-
-    // 失败时读取旧缓存
-    if (file_exists($cache_file)) {
-        return file_get_contents($cache_file);
-    }
-    
-    return 'N/A'; // 完全失败时的默认值
-}
-
-// 获取粉丝数
-$follower = getBiliFollower($uid, $cache_file, $cache_time);
-
-// 生成 shields.io 徽章 URL
-$label = 'B站粉丝';
-$color = 'fb7299'; // B站主题色
-$badge_url = "https://img.shields.io/badge/{$label}-{$follower}-{$color}?style=flat-square&logo=bilibili";
-
-// 输出图片
-header('Content-Type: image/svg+xml');
-@readfile($badge_url);
-?>
-
-
-
-
 
 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
