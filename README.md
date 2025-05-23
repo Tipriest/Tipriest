@@ -14,8 +14,6 @@
 
 
 <!-- 领英的badge, CSDN和B站的Icon链接，脉脉的badge  -->
-
-
 #### My ability tree
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
