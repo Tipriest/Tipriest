@@ -20,7 +20,7 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat-square&logo=PyTorch&logoColor=white)
 ![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner-A5915F?style=flat-square&logo=AltiumDesigner&logoColor=white)
 ![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 - 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
