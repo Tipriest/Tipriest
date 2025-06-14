@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
 - ✨ I’m relatively good at hardware design, including **power board(like buck boost PCB)design**~
 - 👯 I’m looking to collaborate on my **trajectory planning work and my ideas which is recorded in the repository below**~
-- 🤔 I’m looking forard ro do my phD research or find a work position worldWide, if you are interested, Contact with Me and hope on day we could work together！
+- 🤔 I’m looking forward ro do my phD research or find a work position worldWide, if you are interested, Contact with Me and hope on day we could work together！
 - 📫 How to reach me: a1503741059@163.com
 - ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
 - 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
