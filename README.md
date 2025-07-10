@@ -16,6 +16,8 @@
 #### My ability tree
 ![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner-A5915F?style=flat-square&logo=AltiumDesigner&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-EB2629?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-green?style=flat-square)
+![CubeMX](https://img.shields.io/badge/CubeMX-blue?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
