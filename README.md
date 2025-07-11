@@ -9,6 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Tipriest?style=flat&logo=github&label=github%20followers&labelColor=black)](https://github.com/Tipriest)
 [![CSDN followers](https://img.shields.io/badge/CSDN%20followers-1341-0f81c2?style=flat&labelColor=%23fc5531)](https://blog.csdn.net/Titan__)
 [![zhihu followers](https://img.shields.io/badge/zhihu%20followers-132-0f81c2?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/tipriest)
+[![zhihu followers](https://img.shields.io/badge/leetcode-0f81c2?style=flat&logo=leetcode&logoColor=white&labelColor=%#FFA116)](https://leetcode.cn/u/tipriest/)
 <!--[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=MyBlog)](https://tipriest.github.io)-->
 
 
