@@ -7,7 +7,7 @@
 
 [![bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D496296349&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37697)](https://space.bilibili.com/496296349)
 [![GitHub followers](https://img.shields.io/github/followers/Tipriest?style=flat&logo=github&label=github%20followers&labelColor=black)](https://github.com/Tipriest)
-[![CSDN followers](https://img.shields.io/badge/CSDN%20followers-1742-0f81c2?style=flat&labelColor=%23fc5531)](https://blog.csdn.net/Titan__)
+[![CSDN followers](https://img.shields.io/badge/CSDN%20followers-1754-0f81c2?style=flat&labelColor=%23fc5531)](https://blog.csdn.net/Titan__)
 [![zhihu followers](https://img.shields.io/badge/zhihu%20followers-141-0f81c2?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/tipriest)
 [![leetcode entry](https://img.shields.io/badge/leetcode-ffa116?style=flat&logo=leetcode&logoColor=white&labelColor=%23ffa116)](https://leetcode.cn/u/tipriest/)
 <!--[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=MyBlog)](https://tipriest.github.io)-->
