@@ -28,7 +28,7 @@
 
 
 #### My Works
-[legged_localization_benchmark]([Leg-KILO](https://github.com/Tipriest/legged_localization_benchmark))
+[legged_localization_benchmark](https://github.com/Tipriest/legged_localization_benchmark)
 
 - 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
