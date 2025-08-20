@@ -35,7 +35,9 @@
 - ✨ I’m relatively good at hardware design, including **power board(like buck boost PCB)design**~
 - 👯 I’m looking to collaborate on my **trajectory planning work and my ideas which is recorded in the repository below**~
 - 🤔 I’m looking forward ro do my phD research or find a work position worldWide, if you are interested, Contact with Me and hope on day we could work together！
-- 📫 How to reach me: a1503741059@163.com
+- 📫 How to reach me:
+-   wechat: 15765490901
+-   email: a1503741059@163.com
 - ⚡ Fun fact: Nas, Cloud, UAV, Badminton and everything that automatically and quietly finish their jobs~
 - Fun ideas：做一个软件，可以把现在的待办事项给填写成泡泡的形状，事情越重要泡泡越大，事情越紧急(软件能够自动检测时间)泡泡动的越快
 - 我是否具有通过模拟，解决现实生活中问题的能力，并且有效地将其进行说明与展示？
