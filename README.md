@@ -10,8 +10,9 @@
 [![CSDN followers](https://img.shields.io/badge/CSDN%20followers-2530-0f81c2?style=flat&labelColor=%23fc5531)](https://tipriest.blog.csdn.net/)
 [![zhihu followers](https://img.shields.io/badge/zhihu%20followers-174-0f81c2?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/tipriest)
 [![leetcode entry](https://img.shields.io/badge/leetcode-ffa116?style=flat&logo=leetcode&logoColor=white&labelColor=%23ffa116)](https://leetcode.cn/u/tipriest/)
-<!--[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=MyBlog)](https://tipriest.github.io)-->
 ![](https://komarev.com/ghpvc/?username=your-github-Tipriest&color=blue)
+<!--[![ghpvc](https://komarev.com/ghpvc/?username=Tipriest&color=blue&style=flat-square&label=MyBlog)](https://tipriest.github.io)-->
+
 
 
 <!-- 领英的badge, CSDN和B站的Icon链接，脉脉的badge  -->
