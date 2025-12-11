@@ -61,7 +61,6 @@ JS
 
 <!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github) -->
 [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats]  (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tipriest&theme=default" alt="Tipriest" /></p>
 
