@@ -36,6 +36,7 @@ JS
 
 #### My Works
 [legged_localization_benchmark](https://github.com/Tipriest/legged_localization_benchmark)
+TODO: 在mujoco,isaac等环境中实现同样的控制程序控制四足机器人运动
 
 - 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
