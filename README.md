@@ -32,7 +32,7 @@ JS
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 #### My toolbox
-[Pinocchio](https://github.com/Tipriest/algorithm_practice/tree/main/cpplibs/pinocchio), MeshCat, Casadi, Viser, Rerun, Open3d
+[Pinocchio](https://github.com/Tipriest/algorithm_practice/tree/main/cpplibs/pinocchio), MeshCat, Casadi, Viser, Rerun, Open3d, Wandb
 
 #### My Works
 [legged_localization_benchmark](https://github.com/Tipriest/legged_localization_benchmark)  
