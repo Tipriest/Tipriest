@@ -34,6 +34,8 @@ JS
 #### My toolbox
 [Pinocchio](https://github.com/Tipriest/algorithm_practice/tree/main/cpplibs/pinocchio), MeshCat, Casadi, Viser, Rerun, Open3d, Wandb
 
+Textual
+
 #### My Works
 [legged_localization_benchmark](https://github.com/Tipriest/legged_localization_benchmark)  
 TODO: 在mujoco,isaac等环境中实现同样的控制程序控制四足机器人运动  
