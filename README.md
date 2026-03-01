@@ -40,7 +40,6 @@ Textual
 [legged_localization_benchmark](https://github.com/Tipriest/legged_localization_benchmark)  
 TODO: 在mujoco,isaac等环境中实现同样的控制程序控制四足机器人运动  
 仿真端实时输出一些仿真器相关的信息和状态
-无论什么情况下笔记本显卡都能以80W的最大功率运行
 
 - 🔭 I’m currently working on **Wheeled Robots Traj Planning / Tracking and Object Detection / Weak Semantic Segmentation**
 - 🌱 I’m currently learning **AIGC Related Work, like camel, ollama** and so on
