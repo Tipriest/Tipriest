@@ -15,7 +15,7 @@
 
 
 
-<!-- 领英的badge, CSDN和B站的Icon链接，脉脉的badge  -->
+<!-- 领英的badge, CSDN和B站的Icon链接，脉脉的badge  
 #### My ability tree
 ![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner-A5915F?style=flat-square&logo=AltiumDesigner&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-EB2629?style=flat-square)
@@ -23,13 +23,14 @@
 ![CubeMX](https://img.shields.io/badge/CubeMX-blue?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-HTML
-CSS
-JS
+![CSS](https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat-square&logo=PyTorch&logoColor=white)
-![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+
+<!-- ![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) -->
 
 #### My toolbox
 [Pinocchio](https://github.com/Tipriest/algorithm_practice/tree/main/cpplibs/pinocchio), MeshCat, Casadi, Viser, Rerun, Open3d, Wandb
