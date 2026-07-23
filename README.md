@@ -45,10 +45,8 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tipriest&theme=github)
 
-<!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tipriest&theme=github) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tipriest&theme=github) -->
-<!-- [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tipriest&theme=default" alt="Tipriest" /> -->
-[<img align="right" width="400" src="https://github-stats-extended.vercel.app/api?username=Tipriest&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/Tipriest/)
+[<img align="left" height="800" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tipriest&theme=buefy&layout=compact"/>](https://github.com/Tipriest/)
+
+[<img align="right" height="500" src="https://github-stats-extended.vercel.app/api?username=Tipriest&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/Tipriest/)
 
 
