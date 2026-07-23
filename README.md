@@ -49,5 +49,6 @@
 <!-- [![Tipriest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Tipriest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipriest)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tipriest&theme=default" alt="Tipriest" /> -->
+[<img align="right" width="400" src="https://github-stats-extended.vercel.app/api?username=Tipriest&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/Tipriest/)
 
 
